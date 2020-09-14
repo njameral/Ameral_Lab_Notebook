@@ -8,10 +8,10 @@ tags: [Horseshoe crab, DNA]
 Date Performed: September 12th, 2020\
 Tissue samples processed: 447, 448, 449, 450, 452, 453, 454, 455
 
-Processed samples following steps from [previous Extraction Post](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Extraction/) with a few minor changes:\
+Processed samples following steps from [previous Extraction Post](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Extraction-1/) with a few minor changes:\
   *Skipped PBS soaking step
   *Increased Proteinase K from 15 - 20ul
-  *Used less tissue 
+  *Used less tissue
 
 ### Tissue Processing
 

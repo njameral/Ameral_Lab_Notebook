@@ -8,7 +8,7 @@ tags: [Horseshoe crab, DNA]
 Date Performed: August 27th, 2020\
 Tissue samples processed: 818, 887, 824, 425
 
-Processed samples following steps from [previous Extraction Post](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Extraction/)
+Processed samples following steps from [previous Extraction Post](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Extraction-1/)
 
 ### Notes
 After thermomixer step, noticed small, square, almost plant-like material present in bottom of sample tube

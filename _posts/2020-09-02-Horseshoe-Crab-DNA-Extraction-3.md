@@ -8,7 +8,7 @@ tags: [Horseshoe crab, DNA]
 Date Performed: September 2nd, 2020\
 Tissue samples processed: 414, 442, 443, 444-2(duplicate), 446, 859
 
-Processed samples following steps from [previous Extraction Post](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Extraction/)
+Processed samples following steps from [previous Extraction Post](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Extraction-1/)
 
 ### Notes
 I had originally taken out 445, but realized I had done that one previously so I switched it for 859\
