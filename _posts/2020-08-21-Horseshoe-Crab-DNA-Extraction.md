@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Horseshoe Crab DNA Extraction
+title: Horseshoe Crab DNA Extraction 1
 category: []
 tags: [Horseshoe crab, DNA]
 ---
