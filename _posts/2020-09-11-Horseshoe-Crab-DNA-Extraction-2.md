@@ -5,10 +5,10 @@ category: []
 tags: [Horseshoe crab, DNA]
 ---
 ## Horseshoe Crab DNA Extraction with Zymo Quick DNA Miniprep Plus kit
-Date Performed: August 27th, 2020\
-Tissue samples processed: 818, 887, 824, 425
+Date Performed: September 11th, 2020\
+Tissue samples processed: 794, 796, 835, 836, 838, 886
 
 Processed samples following steps from [previous Extraction Post](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Extraction/)
 
 ### Notes
-After thermomixer step, noticed small, square, almost plant-like material present in bottom of sample tube
+Maggie watched me cut the tissues to see if that may be why we are not seeing as high of a concentration of DNA as we are looking for
