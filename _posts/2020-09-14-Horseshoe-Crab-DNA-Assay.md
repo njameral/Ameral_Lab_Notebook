@@ -4,11 +4,11 @@ title: Horseshoe Crab DNA Quantification
 category: []
 tags: [Horseshoe crab, DNA]
 ---
-# Horseshoe Crab DNA Quantification - Qubit Assay Broad Range dsDNA
+## Horseshoe Crab DNA Quantification - Qubit Assay Broad Range dsDNA
 Date Performed: September 2nd, 2020
 Tissue samples quantified: 425,444,445,491,818,824,887
 
-##Quantification Set-up for Quibit
+### Quantification Set-up for Quibit
 
 1. Retrieved samples for quantification from -20 freezer and placed in ice bucket
 2. Retrieved standards for quantification from 4 degree refrigerator to come to room temp
@@ -26,7 +26,7 @@ Tissue samples quantified: 425,444,445,491,818,824,887
 11. Carefully added 1ul of each sample to corresponding Axygen tube. Made sure to watch 1ul come out of pipette to ensure it did not stick to the side/not come out
 12. Vortexed and spun all Axygen tubes at Qubit station before reading
 
-##Reading Samples
+### Reading Samples
 
 13. Woke up Quibit and selected Broad Range DNA assay
 14. Read standards to ensure 10 fold difference between first and second standard

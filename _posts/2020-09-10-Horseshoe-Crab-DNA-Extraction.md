@@ -4,11 +4,11 @@ title: Horseshoe Crab DNA Extraction
 category: []
 tags: [Horseshoe crab, DNA]
 ---
-# Horseshoe Crab DNA Extraction with Zymo Quick DNA Miniprep Plus kit
+## Horseshoe Crab DNA Extraction with Zymo Quick DNA Miniprep Plus kit
 Date Performed: August 21st, 2020
 Tissue samples processed: 444,445,491
 
-## Tissue Processing
+### Tissue Processing
 
 1. Took 3 samples out of -80 freezer to thaw slowly in ice bucket
 2. Labeled 3 1.5mL tubes with "Sample # PBS" and 3 1.5mL tubes with "Sample #"
@@ -37,7 +37,7 @@ Tissue samples processed: 444,445,491
 23. Set thermomixer to 55 C
 24. Once warm, put samples in thermomixer at 2:30 PM at 1200 rmp
 
-## Extraction
+### Extraction
 
 25. While samples are in thermomixer, set up 3 new 1.5mL tubes with "Sample #"
 26. Samples incubated for 1.5 hours
