@@ -5,7 +5,7 @@ category: []
 tags: [Horseshoe crab, DNA]
 ---
 ## Horseshoe Crab DNA Extraction with Zymo Quick DNA Miniprep Plus kit
-Date Performed: August 21st, 2020
+Date Performed: August 21st, 2020\
 Tissue samples processed: 444,445,491
 
 ### Tissue Processing
