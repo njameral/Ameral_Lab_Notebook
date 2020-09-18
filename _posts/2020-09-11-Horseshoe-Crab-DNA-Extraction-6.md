@@ -42,7 +42,7 @@ Processed samples following steps from [previous Extraction Post](https://njamer
   23. Set thermomixer to 55 C
   24. Once warm, put samples in thermomixer for 2 hours at at 1200 rmp
 
-  ### Extraction
+### Extraction
 
   25. While samples are in thermomixer, set up new 1.5mL tubes with "Sample #" (one for each sample)
   26. Turn off thermomixer
