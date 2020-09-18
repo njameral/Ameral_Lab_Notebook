@@ -8,12 +8,12 @@ tags: [Horseshoe crab, DNA]
 
 
 Processed samples following steps from [previous Extraction Post](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Extraction-1/) with a few minor changes:\
-  *Increased PBS from 100ul - 300ul solution
-  *Increased Proteinase K from 15 - 20ul
-  *Used more tissue
-  *2 hour thermomixer time
+  * Increased PBS from 100ul - 300ul solution
+  * Increased Proteinase K from 15 - 20ul
+  * Used more tissue
+  * 2 hour thermomixer time
 
-  ### Tissue Processing
+### Tissue Processing
 
   1. Take samples out of -80 freezer to thaw slowly in ice bucket
   2. Label 1 1.5mL tube for each sample with "Sample # PBS" and 1 1.5mL tube for each sample with "Sample #"
