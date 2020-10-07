@@ -5,7 +5,7 @@ category: []
 tags: [Horseshoe crab, DNA]
 ---
 ## Horseshoe Crab DNA Quantification - Qubit Assay Broad Range dsDNA
-Date Performed: October 6th, 2020
+Date Performed: October 6th, 2020\
 Tissue samples quantified: 465, 466, 467, 468, 469, 470, 841, 842, 488, 801
 
 Used same procedure as in [previous post](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Assay/)
