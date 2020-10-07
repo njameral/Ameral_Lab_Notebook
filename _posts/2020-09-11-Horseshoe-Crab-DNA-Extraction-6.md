@@ -7,7 +7,7 @@ tags: [Horseshoe crab, DNA]
 ## Horseshoe Crab DNA Extraction with Zymo Quick DNA Miniprep Plus kit - Protocol Only
 
 
-Processed samples following steps from [previous Extraction Post](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Extraction-1/) with a few minor changes:\
+Process samples following steps from [previous Extraction Post](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Extraction-1/) with a few minor changes:\
   * Increased PBS from 100ul - 300ul solution
   * Increased Proteinase K from 15 - 20ul
   * Used more tissue
