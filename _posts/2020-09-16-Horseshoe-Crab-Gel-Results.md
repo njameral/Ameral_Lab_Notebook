@@ -11,4 +11,4 @@ Samples run: 491, 445, 444-1, 425, 818, 824, 887, 794, 796, 835, 836, 838, 886, 
 
 Ran samples following [gel protocol](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-Gel_Protocol/)
 
-![Gel results](images/gel09122020.png)
+![Gel results]({{ site.baseurl}}/images/gel09162020.png)
