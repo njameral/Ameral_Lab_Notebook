@@ -6,9 +6,9 @@ tags: [Horseshoe crab, DNA]
 ---
 ## Horseshoe Crab Agarose Gel
 
-Date Performed: September 16th, 2020\
-Samples run: 491, 445, 444-1, 425, 818, 824, 887, 794, 796, 835, 836, 838, 886, 447, 448, 449, 450, 452, 453, 454, 455
+Date Performed: September 12th, 2020\
+Samples run: 441, 442, 443, 444-2, 446, 859
 
 Ran samples following [gel protocol](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-Gel_Protocol/)
 
-![Gel results]({{ site.baseurl}}/images/gel09162020.png)
+![Gel results]({{ site.baseurl}}/images/gel09122020.png)
