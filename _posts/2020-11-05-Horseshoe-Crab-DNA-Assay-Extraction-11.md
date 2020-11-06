@@ -1,3 +1,4 @@
+---
 layout: post
 title: Horseshoe Crab DNA Extraction and Quantification
 category: []
@@ -34,4 +35,3 @@ Used same assay procedure as in [previous post](https://njameral.github.io/Amera
  827  | 69.0 | 69.4
  828  | 67.6 | 68.0
  831  | 90.4 | 90.2
- 
