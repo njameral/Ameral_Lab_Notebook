@@ -6,10 +6,12 @@ tags: [Horseshoe crab, DNA]
 ---
 ## Horseshoe Crab DNA Extraction and Quantification - Qubit Assay Broad Range dsDNA
 Date of Extraction: November 5th, 2020\
-Date of Assay: November 5th, 2020\
+Date of Assay: November 5th, 2020
+
 Tissue samples extracted: 412-413, 426-430, 766-768, 811-813, 826-831\
-Tissue samples quantified: 412-413, 426-430, 766-768, 811-813, 826,831\
-Notes from extraction: messed up when setting up axygen tubes for 829 and 830. Will be run assay at later date.\
+Tissue samples quantified: 412-413, 426-430, 766-768, 811-813, 826,831
+
+Notes from extraction: messed up when setting up axygen tubes for 829 and 830. Will run assay at later date.
 
 DNA Extracted following [Version 3 Extraction Protocol](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Extraction-6/)\
 Used same assay procedure as in [previous post](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Assay/)
