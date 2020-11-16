@@ -9,7 +9,9 @@ Date of Extraction: November 12th, 2020\
 Date of Assay: November 12th, 2020
 
 Tissue samples extracted: 389-404, 406-409\
-Tissue samples quantified: 389-404, 406-409\
+Tissue samples quantified: 389-404, 406-409
+
+Notes: Sample 409 may have been low on Proteinase K. Made new conical of 10mM Tris HCL by adding 500 ul Tris HCL solution to conical then topping off to 50 ml line with nuclease free water. 
 
 DNA Extracted following [Version 3 Extraction Protocol](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Extraction-6/)\
 Used same assay procedure as in [previous post](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Assay/)
