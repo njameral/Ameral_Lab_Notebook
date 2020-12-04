@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Horseshoe Crab DNA Extraction and Quantification
+title: Horseshoe Crab DNA Quantification
 category: []
 tags: [Horseshoe crab, DNA]
 ---
-## Horseshoe Crab DNA Extraction and Quantification - Qubit Assay Broad Range dsDNA
+## Horseshoe Crab DNA Extraction - Qubit Assay Broad Range dsDNA
 Date of Assay: December 3rd, 2020
 
 Tissue samples quantified: 347905, 371097, 462-464, 489, 490, 845-852, 854, 8553
