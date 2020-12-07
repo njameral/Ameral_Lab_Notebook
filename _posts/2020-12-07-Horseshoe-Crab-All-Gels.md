@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Gel Images with Average DNA ng/l for all 2020 Extractions
+title: Gel Images with Average DNA ng/ul for all 2020 Extractions
 category: []
 tags: [Horseshoe crab, DNA]
 ---
 ## Gel Images for all Initial Extractions of 2020 Samples
 
 Ran samples following [gel protocol](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-Gel_Protocol/)
+NOTE: all Qubit Assay Values are in ng/ul NOT ng/l
 
 Gel results from 9/12/2020
 ![]({{ site.baseurl}}/images/gel_09-12-2020_assay_values.jpg)
