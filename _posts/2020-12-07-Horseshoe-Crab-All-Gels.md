@@ -8,7 +8,8 @@ tags: [Horseshoe crab, DNA]
 
 Ran samples following [gel protocol](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-Gel_Protocol/)
 
-![Gel results from 9/12/2020]({{ site.baseurl}}/images/gel_09-12-2020_assay_values.jpg)
+Gel results from 9/12/2020
+![]({{ site.baseurl}}/images/gel_09-12-2020_assay_values.jpg)
 
 ![Gel results from 9/16/2020]({{ site.baseurl}}/images/gel_09-16-2020_assay_values.jpg)
 
