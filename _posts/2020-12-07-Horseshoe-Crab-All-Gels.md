@@ -11,9 +11,11 @@ Ran samples following [gel protocol](https://njameral.github.io/Ameral_Lab_Noteb
 Gel results from 9/12/2020
 ![]({{ site.baseurl}}/images/gel_09-12-2020_assay_values.jpg)
 
-![Gel results from 9/16/2020]({{ site.baseurl}}/images/gel_09-16-2020_assay_values.jpg)
+Gel results from 9/16/2020
+![]({{ site.baseurl}}/images/gel_09-16-2020_assay_values.jpg)
 
-![Gel results from 10/8/2020]({{ site.baseurl}}/images/gel_18-08-2020_assay_values.jpg)
+Gel results from 10/8/2020
+![]({{ site.baseurl}}/images/gel_18-08-2020_assay_values.jpg)
 
 ![Gel results from 10/15/2020]({{ site.baseurl}}/images/gel_10-13-2020_assay_values.jpg)
 
