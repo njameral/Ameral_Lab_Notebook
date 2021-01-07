@@ -13,4 +13,3 @@ Samples 769, 770, 772, 784, 785, 863, 869, 870 were re-extraction versions (###-
 Ran samples following [gel protocol](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-Gel_Protocol/)
 
 ![Gel results]({{ site.baseurl}}/images/gel_01-05-2021_assay_values.jpg)
-< img src="{{ site.baseurl}}/images/gel_01-05-2021_assay_values.jpg" width="200">
