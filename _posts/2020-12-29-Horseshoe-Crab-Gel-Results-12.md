@@ -10,4 +10,6 @@ Samples run: 425, 444, 447, 450, 455, 464, 466, 467, 470, 488, 776, 777, 780, 83
 
 Ran samples following [gel protocol](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-Gel_Protocol/)
 
+ALL SAMPLES RUN WERE ###-2 VERSION (re-extraction) except 444-3
+
 ![Gel results]({{ site.baseurl}}/images/gel_12-29-2020_assay_values.jpg)
