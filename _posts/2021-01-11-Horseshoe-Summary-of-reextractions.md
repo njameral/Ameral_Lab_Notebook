@@ -62,6 +62,8 @@ Results from re-extractions
  886  | 98.4 | 99.6
 
  Gels from re-extractions and re-gels:
+
+ Re-gels are in this top image
  ![Gel results]({{ site.baseurl}}/images/gel_01-05-2021_assay_values.jpg)
 
  ![Gel results]({{ site.baseurl}}/images/gel_12-29-2020_assay_values.jpg)
