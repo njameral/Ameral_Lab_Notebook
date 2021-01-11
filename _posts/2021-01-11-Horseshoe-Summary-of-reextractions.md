@@ -15,6 +15,7 @@ DNA Extracted following [Version 3 Extraction Protocol](https://njameral.github.
 Used same assay procedure as in [previous post](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Assay/)
 
 Results from re-extractions
+
  Item | Run 1 | Run 2
  ---- | ---- | ----
  770  | 90.8 | 70.8
@@ -64,5 +65,5 @@ Results from re-extractions
  ![Gel results]({{ site.baseurl}}/images/gel_01-05-2021_assay_values.jpg)
 
  ![Gel results]({{ site.baseurl}}/images/gel_12-29-2020_assay_values.jpg)
- 
+
  ![Gel results]({{ site.baseurl}}/images/gel_12-22-2020_assay_values.jpg)
