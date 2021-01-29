@@ -27,4 +27,4 @@ Used same assay procedure as in [previous post](https://njameral.github.io/Amera
 
  Ran samples following [gel protocol](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-Gel_Protocol/)
 
- ![Gel results]({{ site.baseurl}}/images/gel_01-28-2021_assay_values1.jpg)
+ ![Gel results]({{ site.baseurl}}/images/gel_01-28-2021_assay_values.jpg)
