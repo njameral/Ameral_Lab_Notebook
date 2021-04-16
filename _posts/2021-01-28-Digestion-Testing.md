@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Digestion Testing Setup
+title: Digestion Testing
 category: []
 tags: [Horseshoe crab, DNA]
 ---
-## Enzyme Reaction Testing\
+## Enzyme Reaction Testing
 Date Performed: January 28th, 2021
 
   1. Make master mix in strip tubes (8 per sample)

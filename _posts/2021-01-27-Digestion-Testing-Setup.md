@@ -27,7 +27,7 @@ These samples were chosen based on location, date collected, sex, and DNA concen
   14. Used a p20 to remove any excess ethanol in each tube
   15. Waited few minutes for any ethanol to evaporate
   16. Took tubes off magnet plate
-  17. Resuspended beads in (10mM HCL?) not sure on volume
+  17. Resuspended beads in (nuclease free water) not sure on volume
   18. Put tubes back on shaker
   19. Labelled new tubes for cleaned DNA
   20. Put tubes back on magnet until liquid clears
