@@ -6,6 +6,7 @@ tags: [Horseshoe crab, DNA]
 ---
 ## Bead Clean for Enzyme Testing
 Samples selected for test: 401, 419, 759\
+Date Performed: January 26th, 2021\
 These samples were chosen based on location, date collected, sex, and DNA concentration/gel quality
 
   1. Set up strip tube for each sample (8 total reactions per sample)

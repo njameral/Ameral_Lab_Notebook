@@ -4,7 +4,8 @@ title: Digestion Testing Setup
 category: []
 tags: [Horseshoe crab, DNA]
 ---
-## Enzyme Reaction Testing
+## Enzyme Reaction Testing\
+Date Performed: January 28th, 2021
 
   1. Make master mix in strip tubes (8 per sample)
   2. Tubes were labelled as: MSP1, PST1, SPH1, EcoRI, PST1/EcoRI, PST1/MSP1, SPH1/EcoRI, SPH1/MSP1
