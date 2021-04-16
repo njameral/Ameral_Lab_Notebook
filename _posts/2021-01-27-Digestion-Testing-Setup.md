@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digest Prep: First Bead Clean for Enzyme Testing
+title: Digest Prep - First Bead Clean for Enzyme Testing
 category: []
 tags: [Horseshoe crab, DNA]
 ---
