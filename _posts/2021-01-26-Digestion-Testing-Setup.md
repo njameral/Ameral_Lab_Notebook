@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Bead Clean for Enzyme Testing
+title: Digest Prep: First Bead Clean for Enzyme Testing
 category: []
 tags: [Horseshoe crab, DNA]
 ---
@@ -11,6 +11,8 @@ These samples were chosen based on location, date collected, sex, and DNA concen
 
   1. Set up strip tube for each sample (8 total reactions per sample)
   2. Added volume necessary for 500ng DNA (this number was calculated in this spreadsheet:https://docs.google.com/spreadsheets/d/1njUXXOcOWUZv8l4SMtWlhzyxg0ekKZ7k4dtOU3trQ-I/edit#gid=0)
+![Volume Table]({{ site.baseurl}}/images/digest_test_volume_table.jpg)
+
   3. Added remainder volume up to 50ul with Nuclease Free Water
   4. Added 50ul Kappa beads to each sample and pipetted up and down to mix (10x)
   5. Placed on orbital mixer in magnet plate for 15 minutes on 200
