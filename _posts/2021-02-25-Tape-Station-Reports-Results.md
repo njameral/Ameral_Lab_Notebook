@@ -11,4 +11,4 @@ Ideal bp range: 75-100, Max bp is 600
 
 Locus Estimation
 
-![Infograph of master mix]({{ site.baseurl}}/images/locus_estimation_500_ng.jpg)
+![Locus estimation table]({{ site.baseurl}}/images/locus_estimation_500_ng.jpg)
