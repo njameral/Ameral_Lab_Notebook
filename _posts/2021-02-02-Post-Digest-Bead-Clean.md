@@ -7,7 +7,7 @@ tags: [Horseshoe crab, DNA]
 ## 1.8X Bead Clean on Digested Samples
 Date Performed: February 2nd, 2021
 
-1. Added 144ul Kappa beads to each sample and pipetted up and down to mix (10x)
+1. Added 144ul (80*1.8) Kappa beads to each sample and pipetted up and down to mix (10x)
 2. Placed on orbital mixer in magnet plate for 15 minutes on 200
 3. Made 80% ethanol mix (5omL conical 40mL 100% ethanol and 10mL nuclease free water)
 4. Took samples off mixer
