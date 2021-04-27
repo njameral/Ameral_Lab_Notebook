@@ -4,7 +4,7 @@ title: Tape Station Results Samples 401, 759, 419
 category: []
 tags: [Horseshoe crab, DNA]
 ---
-## Tape Station Reports - Locus Estimation
+## Tape Station Reports - Locus Estimation (500ng DNA)
 
 Ideal number of fragments: 20,000-30,000
 Ideal bp range: 75-100, Max bp is 600

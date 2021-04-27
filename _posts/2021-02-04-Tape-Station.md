@@ -5,8 +5,8 @@ category: []
 tags: [Horseshoe crab, DNA]
 ---
 ## Tape Station
-Date Performed: February 4th, 2021
-Samples run: 401 and 759
+Dates Performed: February 4th and 16th, 2021
+Samples run: 401 and 759 on February 4th, 419 run on February 16th
 
 Follow Protocol From: https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/DNA-Tapestation/
 
