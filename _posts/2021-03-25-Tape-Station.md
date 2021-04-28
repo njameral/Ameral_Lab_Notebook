@@ -13,6 +13,8 @@ Follow Protocol From: https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/DNA
 
 ![Tube Setup]({{ site.baseurl}}/images/tape_station_250ng.jpg)
 
+Accidentally combined 359 PST and 858 PST
+
 Agilent Tape Station 4200
 Setup
 1. Take appropriate DNA Tape, buffer, and ladder (either Genomic or D5000) out of fridge 30 minutes beforehand to allow it to equilibrate to room temperature
