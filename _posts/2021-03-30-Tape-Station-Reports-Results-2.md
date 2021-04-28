@@ -12,7 +12,7 @@ Only tested with PST because SPH turned out to be very expensive
 
 Locus Estimation
 
-![Locus estimation table]({{ site.baseurl}}/images/locus_estimation_500_ng.jpg)
+![Locus estimation table]({{ site.baseurl}}/images/locus_estimation_250_ng.jpg)
 
 Methods for locus estimation table:
 Locus Count Estimation (on TS software)

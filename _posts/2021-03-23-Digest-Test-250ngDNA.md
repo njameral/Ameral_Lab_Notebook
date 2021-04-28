@@ -6,6 +6,7 @@ tags: [Horseshoe crab, DNA]
 ---
 ## Enzyme Reaction Testing with 250ng DNA
 Date Performed: March 23rd, 2021\
+
 Samples used: 858,359,854 (randomly selected)\
 Jon asked to do this test because he was concerned about the apparenty low level of digestion in the previous test. Hypothesized that concentration of large DNA strands meant digestion not complete.
 
