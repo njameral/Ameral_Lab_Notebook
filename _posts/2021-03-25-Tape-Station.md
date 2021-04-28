@@ -9,6 +9,8 @@ Dates Performed: March 25th
 
 Samples run: 359, 854, 858
 
+Did 1.8X bead clean first, resuspended in 25ul 10mM Tris HCL
+
 Follow Protocol From: https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/DNA-Tapestation/
 
 ![Tube Setup]({{ site.baseurl}}/images/tape_station_250ng.jpg)
