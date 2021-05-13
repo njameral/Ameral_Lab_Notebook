@@ -29,12 +29,13 @@ April 20th, 2021: Digestion Plate C and Bead Clean Plate B
       o	1μl EcoR1 * n = 39
 
       Strip tube setup for plate C for master mix
+
 Number of columns | Volume to Tube
 ---- | ----
-10   | 103
-10   | 103
-9  | 92
-8  | 82
+10 | 103
+10 | 103
+9 | 92
+8 | 82
 
   Followed Step 3 of above protocol.
 
@@ -53,16 +54,17 @@ April 22nd, 2021: Bead Clean Plate A and Digestions Plates A and B
     o 1μl EcoR1 * n = 156
 
     Strip tube setup for plates A and B master mix
+
 Number of columns | Volume to Tube
 ---- | ----
-10   | 103
-10   | 103
-9  | 92
-8  | 82
-8  | 82
-9  | 92
-10   | 103
-10   | 103
+10 | 103
+10 | 103
+9 | 92
+8 | 82
+8 | 82
+9 | 92
+10 | 103
+10 | 103
 
 *Important Note* for Digestion I did not make enough error margin, had to make more digestion mix for 4 samples
 o	8μl Cutsmart Buffer (10X)  * 4 = 32, 32*1.05 = 33.6
