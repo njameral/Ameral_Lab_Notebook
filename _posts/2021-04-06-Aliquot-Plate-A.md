@@ -5,7 +5,7 @@ category: []
 tags: [Horseshoe crab, DNA]
 ---
 ## Aliquotting Out Samples for Digestion (350ng DNA per 50ul)
-Dates Performed: April 6th and 8th, 20201
+Dates Performed: April 6th and 8th, 2021
 
 Plates laid out following guides below
 

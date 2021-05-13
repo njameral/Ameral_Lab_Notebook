@@ -29,7 +29,7 @@ April 20th, 2021: Digestion Plate C and Bead Clean Plate B
       o	1μl EcoR1 * n = 39
 
       Strip tube setup for plate C for master mix
-Number of columns | Volume to Tube |
+Number of columns | Volume to Tube
 ---- | ----
 10   | 103
 10   | 103
@@ -42,10 +42,10 @@ Number of columns | Volume to Tube |
 
 April 22nd, 2021: Bead Clean Plate A and Digestions Plates A and B
 
-  Bead clean plate A, followed steps above.
+  Bead clean plate A, followed steps above
 
   Digestions plates A and B
-  Plates A and C have 74 – n = 74*1.05=78 (n = 156 for both plates)
+  Plates A and B have 74 – n = 74*1.05=78 (n = 156 for both plates)
 
     Plates A and B master mix of enzymes
     o	8μl Cutsmart Buffer (10X)  * n = 1248
@@ -53,7 +53,7 @@ April 22nd, 2021: Bead Clean Plate A and Digestions Plates A and B
     o 1μl EcoR1 * n = 156
 
     Strip tube setup for plates A and B master mix
-Number of columns | Volume to Tube |
+Number of columns | Volume to Tube
 ---- | ----
 10   | 103
 10   | 103
