@@ -9,7 +9,7 @@ Dates Performed: April 15th, 20th, 22nd 2021
 
 
 April 15th, 2021: Bead Clean Plate C
-* 1X bead clean
+* 1X bead clean (leave beads in!)
 * volume=50ul
 
   Thawed plate C, vortexed and spun
