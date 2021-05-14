@@ -48,12 +48,12 @@ April 22nd, 2021: Bead Clean Plate A and Digestions Plates A and B
   Digestions plates A and B
   Plates A and B have 74 – n = 74*1.05=78 (n = 156 for both plates)
 
-    Plates A and B master mix of enzymes
-    o	8μl Cutsmart Buffer (10X)  * n = 1248
-    o	1μl Pst1 * n = 156
-    o 1μl EcoR1 * n = 156
+  Plates A and B master mix of enzymes
+  o	8μl Cutsmart Buffer (10X)  * n = 1248
+  o	1μl Pst1 * n = 156
+  o 1μl EcoR1 * n = 156
 
-    Strip tube setup for plates A and B master mix
+  Strip tube setup for plates A and B master mix
 
 Number of columns | Volume to Tube
 ---- | ----
@@ -66,14 +66,15 @@ Number of columns | Volume to Tube
 10 | 103
 10 | 103
 
-*Important Note* for Digestion I did not make enough error margin, had to make more digestion mix for 4 samples
-o	8μl Cutsmart Buffer (10X)  * 4 = 32, 32*1.05 = 33.6
-o	2μl Pst1 * 4 = 8, 8*1.05=8.4
-o 2μl EcoR1 * 4 = 8, 8*1.05=8.4
+*Important Note:*\
+For Digestion I did not make enough error margin, had to make more digestion mix for 4 samples\
+o	8μl Cutsmart Buffer (10X)  * 4 = 32, 32*1.05 = 33.6\
+o	2μl Pst1 * 4 = 8, 8*1.05=8.4\
+o 2μl EcoR1 * 4 = 8, 8*1.05=8.4\
 Messed up multiplying the amount of digestion enzyme, I thought it was 2ul of each per sample which is how I got 8
 
-*Also Made PEG Solution on 4/22*
-*25mL 5mNACL
-*10g PEG
-*Up to 50ml Nuclease free water
+*Also Made PEG Solution on 4/22*\
+*25mL 5mNACL\
+*10g PEG\
+*Up to 50ml Nuclease free water\
 Shaker to mix, foil, fridge
