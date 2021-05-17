@@ -35,6 +35,7 @@ Followed 1.8X bead clean, only change is cleaned with 150ul ethanol instead of 2
 Eluted in 20ul water because I removed 1ul per sample for Qubit
 
 Post Bead Clean Qubit
+
 Sample | Run 1 | Run 2
 ---- | ---- | ----
 S1   | 172.46 |
@@ -59,6 +60,7 @@ Sample | Volume for 400ng DNA | Volume up to 21ul Water
 768  | 4.0 | 17.0
 
 Pre-Thermocylcer Assay
+
 Sample | Run 1 | Run 2
 ---- | ---- | ----
 S1   | 202.64 |
@@ -72,8 +74,8 @@ S2   | 24478.58 |
 
 All Results Below (Some duplicate info)
 
-![Infographic of Natalie bead test]({{ site.baseurl}}/images/Natalie_Bead_Test.jpg)\
+![Infographic of Natalie bead test]({{ site.baseurl}}/images/Natalie_Bead_Test.jpg)
 
-![Infographic of Over night bead test]({{ site.baseurl}}/images/Over_Night_Bead_Test.jpg)\
+![Infographic of Over night bead test]({{ site.baseurl}}/images/Over_Night_Bead_Test.jpg)
 
-![Infographic of Maggie bead test]({{ site.baseurl}}/images/Maggie_Bead_Test.jpg)\
+![Infographic of Maggie bead test]({{ site.baseurl}}/images/Maggie_Bead_Test.jpg)
