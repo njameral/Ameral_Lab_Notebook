@@ -11,8 +11,6 @@ Randomly chose 12 samples for digestion:
 369,396,394,416,756,767,815,819,834,443-2,488-2,784,2 (Plate ZY)
 Started with Step 4 of ddRad Protocol (https://docs.google.com/document/d/1iWBGgBZuXlVuiEV-A3ecxeyn9ZaY389tAqGZWksjs5Y/edit)
 
-![Infographic of Digest Test]({{ site.baseurl}}/images/digest_test_5-16.jpg)
-
 1. Thawed samples, vortexed, and spun down
 2. Added water to plate first then added corresponding amount of sample to get 350ng of DNA
 3. Sealed plate, vortexed, spun down plate
@@ -90,3 +88,5 @@ S2   | 18225.93 |
 443-2  | too low out of range | too low out of range
 488-2  | too low out of range | too low out of range
 784-2  | too low out of range | too low out of range
+
+MAGGIE GOT SAME RESULTS
