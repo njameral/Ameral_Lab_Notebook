@@ -17,11 +17,11 @@ Finally figured out that the issue was using Nuclease free water for the bead cl
 
 Plates laid out following guides below
 
-[Plate A]({{ site.baseurl}}/images/half_plate_A.png)
-[Plate B]({{ site.baseurl}}/images/half_plate_B.png)
-[Plate C]({{ site.baseurl}}/images/half_plate_C.png)
-[Plate D]({{ site.baseurl}}/images/half_plate_D.png)
-[Plate E]({{ site.baseurl}}/images/half_plate_E.png)
+![Plate A]({{ site.baseurl}}/images/half_plate_A.png)
+![Plate B]({{ site.baseurl}}/images/half_plate_B.png)
+![Plate C]({{ site.baseurl}}/images/half_plate_C.png)
+![Plate D]({{ site.baseurl}}/images/half_plate_D.png)
+![Plate E]({{ site.baseurl}}/images/half_plate_E.png)
 
 4. DNA Dilution and Initial Cleanup
 After quantification, determine DNA quantity in each of the samples. You should have already done this in the choosing enzymes step if this is a new library prep. If not, follow below
