@@ -5,7 +5,7 @@ category: []
 tags: [Horseshoe crab, DNA]
 ---
 ## Adapter Annealing and Adapter Ligation
-Dates Performed: June 29th, 30th, July 1st
+Dates Performed: June 29th, 30th, July 1st and 6th
 
 9. Ligation Calculation and adapter annealing and diluting
 
@@ -78,3 +78,6 @@ Put the plate in the Thermocyclers in the RAD LIGA program in the JONP login (pa
 The plate can be taken out and put in the fridge until pooling
 
 ![adapterguide]({{ site.baseurl}}/images/adapter_aliquot_guide.png)
+* add 1ul per tube for error
+
+Plates A,B,D processed on 7/1/2021, Plates C and E diluted on 7/1 adapters ligated on 7/6
