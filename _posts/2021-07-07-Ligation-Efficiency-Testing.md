@@ -5,6 +5,7 @@ category: []
 tags: [Horseshoe crab, DNA]
 ---
 ## PCR Test and Gel for Ligation Test
+Dates Performed: July 6th (Plates A,B,D) July 8th (Plates C,E)
 
 11. Ligation Test
 Pipette the ligation test sample(s) into new PCR strip tubes (40ul)
