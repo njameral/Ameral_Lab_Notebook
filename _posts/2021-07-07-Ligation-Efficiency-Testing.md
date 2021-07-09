@@ -39,4 +39,4 @@ While that is running, make a small 1% gel to set (gel protocol)
 After the program is done, run 10ul from each PCR reaction (use 2ul dye for 10ul sample) on the gel with a 1kb Plus DNA ladder for 1 hr at 80V
 You should see a smear on the gel for all of the wells, the 30 cycle samples will be brighter, and might have brighter/more amplification at the smaller fragments (because smaller fragments amplify better in PCRs, which is why we only do 12 cycles in the real prep). The smear shows that the fragments got the adapters so they could be effectively primed and amplified to a level that you can see on the gel. If there is no smear for samples on the gel, it means the ligation did not work and you should go back to step 9 to do the ligation again.
 
-![Ligation_Test]({{ site.baseurl}}/ligation_test_gel_A_B_D.jpg)
+![ligationabd]({{ site.baseurl}}/images/ligation_test_gel_A_B_D.jpg)
