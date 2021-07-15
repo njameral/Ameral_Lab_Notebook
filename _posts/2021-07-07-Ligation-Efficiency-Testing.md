@@ -7,14 +7,15 @@ tags: [Horseshoe crab, DNA]
 ## PCR Test and Gel for Ligation Test
 Dates Performed: July 6th (Plates A,B,D) July 8th (Plates C,E)
 
-11. Ligation Test
-Pipette the ligation test sample(s) into new PCR strip tubes (40ul)
-Perform a 1.5X bead cleanup for each test sample. Briefly:
-Add 60ul room temp KAPA Pure Beads to each sample and pipette mix 10X
-Place on orbital shaker 15 min
-Place on magnet rack and wait for solution to go clear
-Remove clear solution without disturbing beads
-Add 200ul fresh 80% ethanol to tubes
+  Step 11: Ligation Test
+  Pipette the ligation test sample(s) into new PCR strip tubes (40ul)\
+  Perform a 1.5X bead cleanup for each test sample.\
+  Briefly:
+  Add 60ul room temp KAPA Pure Beads to each sample and pipette mix 10X
+  Place on orbital shaker 15 min
+  Place on magnet rack and wait for solution to go clear
+  Remove clear solution without disturbing beads
+  Add 200ul fresh 80% ethanol to tubes
 Remove solution from tubes
 Add 200ul fresh 80% ethanol to tubes
 Remove solution from tubes
